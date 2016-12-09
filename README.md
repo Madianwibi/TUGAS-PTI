@@ -1,5 +1,6 @@
 # TUGAS-PTI
 Repositori hasil tugas UTS PTI
+
 Soal pribadi :
 
 26.	Sebutkan 5 golongan yang termasuk perangkat lunak aplikasi
